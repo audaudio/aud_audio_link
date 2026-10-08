@@ -1,0 +1,19 @@
+// @license
+// Copyright (c) Audanika. All Rights Reserved.
+//
+// Use of this source code is governed by terms that can be
+// found in the LICENSE file in the root of this package.
+
+{
+  "name": "aud_audio_link",
+  "summary": "Ableton Link transport provider of the Audanika Audio Engine; fetches Link and LinkKit at build time, app publishers license Link themselves.",
+  "domain": [
+    "Ableton Link transport provider of the Audanika Audio Engine; fetches Link and LinkKit at build time, app publishers license Link themselves"
+  ],
+  "interfaces": {
+    "uses": {
+      "aud_audio_graph": "package dependency"
+    },
+    "usedBy": {}
+  }
+}

@@ -2,4 +2,4 @@
 
 Ableton Link transport provider of the Audanika Audio Engine; fetches Link and LinkKit at build time, app publishers license Link themselves.
 
-Part of the Audanika Audio Engine; planned in [aud_audio_pm](https://github.com/audaudio/aud_audio_pm).
+Teil der Audanika Audio Engine; geplant in [aud_audio_pm](https://github.com/audaudio/aud_audio_pm).
