@@ -1,6 +1,6 @@
 name: aud_audio_link
 description: "Ableton Link transport provider of the Audanika Audio Engine; fetches Link and LinkKit at build time, app publishers license Link themselves"
-version: 0.0.1
+version: 0.0.2
 publish_to: none
 homepage: https://github.com/audaudio/aud_audio_link
 repository: https://github.com/audaudio/aud_audio_link
