@@ -5,6 +5,7 @@
 ### Changed
 
 - Define NOMINMAX before windows.h
+- Resolve the example in a pub workspace
 
 ## 0.0.2 - 2026-10-08
 
