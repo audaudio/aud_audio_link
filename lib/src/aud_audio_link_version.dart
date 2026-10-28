@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_audio_link` package.
-const String audAudioLinkVersion = '0.0.3';
+const String audAudioLinkVersion = '0.1.0';
