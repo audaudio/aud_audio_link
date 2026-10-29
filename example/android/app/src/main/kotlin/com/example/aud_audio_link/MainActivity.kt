@@ -1,4 +1,4 @@
-package com.audanika.aud_audio_link
+package com.example.aud_audio_link
 
 import io.flutter.embedding.android.FlutterActivity
 
